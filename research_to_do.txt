@@ -1,0 +1,3 @@
+topographic maps of the visual field
+center-surround receptive fields
+gating circuitry
